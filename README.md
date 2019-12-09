@@ -1,7 +1,7 @@
 # epl1819
 
 ### Câu 1: Đưa ra đội bóng có cầu thủ ghi bàn nhiều nhất,cầu thủ ghi bàn nhiều nhất và số bàn thắng của anh ta.
-
+![Pic1][https://imgur.com/A0kPv5E]
 ### Câu 2: Đưa ra đội bóng có nhiều cầu thủ ghi bàn nhất và số lượng cầu thủ ghi bàn.
 
 ### Câu 3: Thống kê số lượng thẻ vàng và thẻ đỏ của các đội bóng.
