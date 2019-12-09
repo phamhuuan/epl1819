@@ -22,7 +22,7 @@
 ![Pic](https://i.imgur.com/0USrRfK.png)
 ### Câu 11: Đưa ra tên huấn luyện viên của đội bóng thắng trên sân nhà nhiều nhất, ít nhất, thắng trên sân khách nhiều nhất, ít nhất, thua trên sân nhà nhiều nhất, ít nhất, thua trên sân khách nhiều nhất, ít nhất.
 ![Pic](https://i.imgur.com/GIr3x54.png)
-### Câu 12: Đưa ra tên ba huấn luyện viên của ba đội bóng thắng trên sân nhà nhiều nhất, ít nhất, thắng trên sân khách nhiều nhất, ít nhất, thua trên sân nhà nhiều nhất, ít nhất, thua trên sân khách nhiều nhất, ít nhất.
+### *Câu 12: Đưa ra tên ba huấn luyện viên của ba đội bóng thắng trên sân nhà nhiều nhất, ít nhất, thắng trên sân khách nhiều nhất, ít nhất, thua trên sân nhà nhiều nhất, ít nhất, thua trên sân khách nhiều nhất, ít nhất.
 ![Pic](https://i.imgur.com/IBYdj1N.png)
 ### Câu 13: Liệt kê những trận hòa không có bàn thắng.
 ![Pic](https://i.imgur.com/98uqfEr.png)
@@ -32,7 +32,7 @@
 ![Pic](https://i.imgur.com/IGsmX6z.png)
 ### Câu 16: Đưa ra tổng thời gian truy cập website theo tháng của mỗi đội bóng.
 ![Pic](https://i.imgur.com/vSiD0mu.png)
-### Câu 17: Đưa ra độ tuổi phổ biến (>20%), giới tính phổ biến (>50%), thiết bị truy cập phổ biến (>50%) của người truy cập trang web của mỗi đội bóng.
+### *Câu 17: Đưa ra độ tuổi phổ biến (>20%), giới tính phổ biến (>50%), thiết bị truy cập phổ biến (>50%) của người truy cập trang web của mỗi đội bóng.
 ![Pic](https://i.imgur.com/X3dEdkt.png)
 ### Câu 18: Đưa ra số quảng cáo được người dùng desktop bấm vào của mỗi đội bóng.
 ![Pic](https://i.imgur.com/pqYnR5O.png)
@@ -50,25 +50,25 @@
 ![Pic](https://i.imgur.com/YLPah1f.png)
 ### Câu 25: Đưa ra 10 cầu thủ có hiệu suất ghi bàn tốt nhất.
 ![Pic](https://i.imgur.com/jIX7PrK.png)
-### Câu 26: Chọn ngẫu nhiên một vòng đấu (từ 1 đến 38, 10 trận 1 vòng) và chọn ngẫu nhiên tỉ số của 10 trận đấu đó, hiển thị kết quả 10 trận đấu và cập nhật bảng xếp hạng.
+### *Câu 26: Chọn ngẫu nhiên một vòng đấu (từ 1 đến 38, 10 trận 1 vòng) và chọn ngẫu nhiên tỉ số của 10 trận đấu đó, hiển thị kết quả 10 trận đấu và cập nhật bảng xếp hạng.
 ![Pic](https://i.imgur.com/1i3hRSx.png)
 ![Pic](https://i.imgur.com/iG9irfd.png)
-### Câu 27: Chọn ngẫu nhiên 2 đội bóng, in ra đội hình xuất phát, lịch sử đối đầu và tỉ số trận đấu giữa 2 đội, cập nhật bảng xếp hạng.
+### *Câu 27: Chọn ngẫu nhiên 2 đội bóng, in ra đội hình xuất phát, lịch sử đối đầu và tỉ số trận đấu giữa 2 đội, cập nhật bảng xếp hạng.
 ![Pic](https://i.imgur.com/KCKuR0J.png)![Pic](https://i.imgur.com/cbdaeaQ.png)
 ![Pic](https://i.imgur.com/D9slqBe.png)
 ![Pic](https://i.imgur.com/1syv2uT.png)
 ![Pic](https://i.imgur.com/2YEa0q2.png)
-### Câu 28: Đưa ra cặp đấu có tổng tỉ số lượt đi và lượt về lớn nhất.
+### *Câu 28: Đưa ra cặp đấu có tổng tỉ số lượt đi và lượt về lớn nhất.
 ![Pic](https://i.imgur.com/KEX5cnn.png)
-### Câu 29: Thiết lập lịch thi đấu vòng 39, giả lập kết quả và cập nhật bảng xếp hạng.
+### *Câu 29: Thiết lập lịch thi đấu vòng 39, giả lập kết quả và cập nhật bảng xếp hạng.
 ![Pic](https://i.imgur.com/bWnzlrq.png)
 ![Pic](https://i.imgur.com/ioKug06.png)
-### Câu 30: Thiết lập lịch thi đấu cho 20 đội ở mùa tiếp theo (38 vòng đấu).
+### *Câu 30: Thiết lập lịch thi đấu cho 20 đội ở mùa tiếp theo (38 vòng đấu).
 ![Pic](https://i.imgur.com/jULxw4t.png)
 ![Pic](https://i.imgur.com/C6b7ldx.png)
-### Câu 31: Đưa ra tổng số bàn thắng của mỗi đội bóng từ vòng 16 đến 25.
+### *Câu 31: Đưa ra tổng số bàn thắng của mỗi đội bóng từ vòng 16 đến 25.
 ![Pic](https://i.imgur.com/0BgiifL.png)
-### Câu 32: Đưa ra bảng xếp hạng Ngoại hạng Anh sau vòng 23.
+### *Câu 32: Đưa ra bảng xếp hạng Ngoại hạng Anh sau vòng 23.
 ![Pic](https://i.imgur.com/8E06tpg.png)
-### Câu 33: Tạo game Minesweeper.
+### *Câu 33: Tạo game Minesweeper.
 ![Pic](https://i.imgur.com/Moe7UnC.png)
