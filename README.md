@@ -67,7 +67,7 @@
 ![Pic](https://i.imgur.com/jULxw4t.png)
 ![Pic](https://i.imgur.com/C6b7ldx.png)
 ### Câu 31: Đưa ra tổng số bàn thắng của mỗi đội bóng từ vòng 16 đến 25.
-![Pic](https://imgur.com/0BgiifL)
+![Pic](https://i.imgur.com/0BgiifL.png)
 ### Câu 32: Đưa ra bảng xếp hạng Ngoại hạng Anh sau vòng 23.
 ![Pic](https://i.imgur.com/8E06tpg.png)
 ### Câu 33: Tạo game Minesweeper.
