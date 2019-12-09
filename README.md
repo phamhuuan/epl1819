@@ -51,17 +51,24 @@
 ### Câu 25: Đưa ra 10 cầu thủ có hiệu suất ghi bàn tốt nhất.
 ![Pic](https://i.imgur.com/jIX7PrK.png)
 ### Câu 26: Chọn ngẫu nhiên một vòng đấu (từ 1 đến 38, 10 trận 1 vòng) và chọn ngẫu nhiên tỉ số của 10 trận đấu đó, hiển thị kết quả 10 trận đấu và cập nhật bảng xếp hạng.
-![Pic](https://i.imgur.com/1i3hRSx.png)![Pic](https://i.imgur.com/iG9irfd.png)
+![Pic](https://i.imgur.com/1i3hRSx.png)
+![Pic](https://i.imgur.com/iG9irfd.png)
 ### Câu 27: Chọn ngẫu nhiên 2 đội bóng, in ra đội hình xuất phát, lịch sử đối đầu và tỉ số trận đấu giữa 2 đội, cập nhật bảng xếp hạng.
-
+![Pic](https://i.imgur.com/KCKuR0J.png)![Pic](https://i.imgur.com/cbdaeaQ.png)
+![Pic](https://i.imgur.com/D9slqBe.png)
+![Pic](https://i.imgur.com/1syv2uT.png)
+![Pic](https://i.imgur.com/2YEa0q2.png)
 ### Câu 28: Đưa ra cặp đấu có tổng tỉ số lượt đi và lượt về lớn nhất.
-
+![Pic](https://i.imgur.com/KEX5cnn.png)
 ### Câu 29: Thiết lập lịch thi đấu vòng 39, giả lập kết quả và cập nhật bảng xếp hạng.
-
+![Pic](https://i.imgur.com/bWnzlrq.png)
+![Pic](https://i.imgur.com/ioKug06.png)
 ### Câu 30: Thiết lập lịch thi đấu cho 20 đội ở mùa tiếp theo (38 vòng đấu).
-
+![Pic](https://i.imgur.com/jULxw4t.png)
+![Pic](https://i.imgur.com/C6b7ldx.png)
 ### Câu 31: Đưa ra tổng số bàn thắng của mỗi đội bóng từ vòng 16 đến 25.
-
+![Pic](https://imgur.com/0BgiifL)
 ### Câu 32: Đưa ra bảng xếp hạng Ngoại hạng Anh sau vòng 23.
-
+![Pic](https://i.imgur.com/8E06tpg.png)
 ### Câu 33: Tạo game Minesweeper.
+![Pic](https://i.imgur.com/Moe7UnC.png)
