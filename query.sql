@@ -27,7 +27,7 @@ select (@name := (select EplTable.Name from EplTable, Players where(EplTable.Sho
 
 set @a=0;select (@a := @a+1) Rank, case when @a <= 4 then "UCL" when @a = 5 then "UEL" when @a >= 18 then "EFL" else "" end as Status, Name, Win + Draw + Lose Round, Win W, Draw D, Lose L, GoalsFor GF, GoalsAgainst GA, GoalDifferent GD, Point P from EplTable order by Point desc, GoalDifferent desc, GoalsFor desc;
 
--- 9. Đưa ra tên đội bóng có tỉ lệ người truy cập trang web là Nam nhiều nhất và ít nhất.
+-- 9. Đưa ra tên đội bóng có tỉ lệ người truy cập trang web là Nam nhiều nhất.
 
 select EplTable.Name, GuestInfo.Male from EplTable, ClubInfo, GuestInfo where (EplTable.ShortName = ClubInfo.ShortName and ClubInfo.Website = GuestInfo.Website) order by GuestInfo.Male desc limit 1;
 

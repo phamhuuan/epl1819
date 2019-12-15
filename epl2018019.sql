@@ -620,7 +620,12 @@ insert into StadiumInfo values('John Smith\'s Stadium','Huddersfield',24169,53.6
 
 -- Website Info
 
-create table WebsiteInfo(Website varchar(50) primary key,MonthlyVisits integer,MonthlyVisitors integer,TimeAccessAverage time);
+create table WebsiteInfo(
+	Website varchar(50) primary key,
+	MonthlyVisits integer,
+	MonthlyVisitors integer,
+	TimeAccessAverage time
+);
 
 insert into WebsiteInfo values('https://www.arsenal.com/',5414994,1887687,'0:02:37');
 insert into WebsiteInfo values('https://www.brightonandhovealbion.com/',421842,159496,'0:04:14');
@@ -645,7 +650,20 @@ insert into WebsiteInfo values('https://www.wolves.co.uk/',812431,239242,'0:03:5
 
 -- Guest Info
 
-create table GuestInfo(Website varchar(50) primary key,18to24 float,25to34 float,35to44 float,45to54 float,55to64 float,65plus float,Male float,Female float,Desktop float,Mobile float,Advertise float);
+create table GuestInfo(
+	Website varchar(50) primary key,
+	18to24 float,
+	25to34 float,
+	35to44 float,
+	45to54 float,
+	55to64 float,
+	65plus float,
+	Male float,
+	Female float,
+	Desktop float,
+	Mobile float,
+	Advertise float
+);
 
 insert into GuestInfo values('https://www.arsenal.com/',20.4,33.7,21.3,13.3,7.4,3.9,75.22,24.73,36.96,63.04,0.40);
 insert into GuestInfo values('https://www.brightonandhovealbion.com/',13.9,27.2,22.6,18.6,11.4,6.3,64.94,35.06,25.37,74.63,0.03);
@@ -670,7 +688,16 @@ insert into GuestInfo values('https://www.wolves.co.uk/',15.5,27.2,21.5,17.4,11.
 
 -- Result
 
-create table Result(Round integer,DayOfWeek varchar(20),Date date,Home varchar(30),HomeScore integer,AwayScore integer,Away varchar(30), constraint primary key(Home, Away));
+create table Result(
+	Round integer,
+	DayOfWeek varchar(20),
+	Date date,
+	Home varchar(30),
+	HomeScore integer,
+	AwayScore integer,
+	Away varchar(30),
+	constraint primary key(Home, Away)
+);
 
 insert into Result values(38,'Sunday','190512','BHA',1,4,'MCI');
 insert into Result values(38,'Sunday','190512','BUR',1,3,'ARS');
