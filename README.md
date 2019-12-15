@@ -16,7 +16,7 @@
 ![Pic](https://i.imgur.com/lknHoWN.png)
 ### Câu 8: Đưa ra bảng xếp hạng giải Ngoại Hạng Anh.
 ![Pic](https://i.imgur.com/BhaBr2e.png)
-### Câu 9: Đưa ra tên đội bóng có tỉ lệ người truy cập trang web là Nam nhiều nhất và ít nhất.
+### Câu 9: Đưa ra tên đội bóng có tỉ lệ người truy cập trang web là Nam nhiều nhất.
 ![Pic](https://i.imgur.com/R60ZAzJ.png)
 ### Câu 10: Đưa ra tên huấn luyện viên của đội bóng có nhiều hơn 8 trận thua.
 ![Pic](https://i.imgur.com/0USrRfK.png)
